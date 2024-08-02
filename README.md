@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roodruh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ~redacted~
 
 <!---
